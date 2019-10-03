@@ -24,6 +24,6 @@ Build a proof of concept for an iOS app to capture images of 3D models placed in
 Total Estimated Time: 30 hours
 
 ## Costs
-Fixed Costs: $100 Apple Developer Licensing Fee
-Hourly Estimated Costs: $75/hour rate * 30 hours = $2250
-**Total Cost**: $2350
+###### Fixed Costs: $100 Apple Developer Licensing Fee
+###### Hourly Estimated Costs: $75/hour rate * 30 hours = $2250
+###### **Total Cost**: $2350
