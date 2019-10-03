@@ -10,8 +10,11 @@ and capture images for surveying purposes.
 - Company logo for app icon / launch screen
 
 ## Service Requirements
-- Select a 3d model from a hardware inventory
-- Drop currently selected model in the AR environment
+| Task | Estimation | Cost |
+| ---- | ---------- | ---- |
+|      |            |      |
+- Select a product from a preset inventory
+- Drop 3D model of currently selected in the AR environment
 - Set the final location of the dropped model
 - Prevent object drifting after placement
 - Capture photo of the camera footage + 3D content
