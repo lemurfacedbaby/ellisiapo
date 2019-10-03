@@ -1,8 +1,11 @@
 # Order of Work
+Bryan Gongora Cooper
+Root Management, LLC
+rootmanagementllc@gmail.com
+252-561-5078
 
 ## Description
-Build a proof of concept for a mobile AR application to place 3D product previews outdoors
-and capture images for surveying purposes.
+Build a proof of concept for an iOS app to capture images of 3D models placed in AR for surveying purposes.
 
 ## Prerequisites
 - Apple ids of users to add for beta testing
@@ -21,7 +24,6 @@ and capture images for surveying purposes.
 Total Estimated Time: 30 hours
 
 ## Costs
-
 Fixed Costs: $100 Apple Developer Licensing Fee
 Hourly Estimated Costs: $75/hour rate * 30 hours = $2250
 **Total Cost**: $2350
