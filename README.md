@@ -16,11 +16,11 @@ Build a proof of concept for an iOS app to capture images of 3D models placed in
 | Task | Estimation |
 | ---- | ---------- |
 | Select a product from a preset inventory  | 8 hours |
-| Drop 3D model of currently selected in the AR environment | 4 hours | |
-| Move the location of the dropped model | 2 hours | |
-| Capture photo of the camera footage + 3D content | 4 hours | |
-| View and export photos in a gallery format | 8 hours | |
-| Packaging of and distribution of application for App Store | 4 hours | |
+| Drop 3D model of currently selected in the AR environment | 4 hours |
+| Move the location of the dropped model | 2 hours |
+| Capture photo of the camera footage + 3D content | 4 hours |
+| View and export photos in a gallery format | 8 hours |
+| Packaging of and distribution of application for App Store | 4 hours |
 Total Estimated Time: 30 hours
 
 ## Costs
