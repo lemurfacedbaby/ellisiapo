@@ -1,8 +1,8 @@
 # Order of Work
-Bryan Gongora Cooper
-Root Management, LLC
-rootmanagementllc@gmail.com
-252-561-5078
+##### Bryan Gongora Cooper
+##### Root Management, LLC
+##### rootmanagementllc@gmail.com
+##### 252-561-5078
 
 ## Description
 Build a proof of concept for an iOS app to capture images of 3D models placed in AR for surveying purposes.
